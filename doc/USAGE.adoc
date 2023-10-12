@@ -105,4 +105,4 @@ GDCubismにはさまざまなクラスが用意されています。使用方法
 **** link:API/ja/API_gd_cubism_motion_queue_entry_handle.ja.adoc[GDCubismMotionQueueEntryHandle]
 **** GDCubismValueAds
 ***** link:API/ja/API_gd_cubism_parameter.ja.adoc[GDCubismParameter]
-***** link:API/ja/API_gd_cubism_part_opaciry.ja.adoc[GDCubismPartOpacity]
+***** link:API/ja/API_gd_cubism_part_opacity.ja.adoc[GDCubismPartOpacity]

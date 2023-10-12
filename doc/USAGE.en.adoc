@@ -107,4 +107,4 @@ GDCubism provides a variety of classes. Please refer to the document linked belo
 **** link:API_gd_cubism_motion_queue_entry_handle.ja.adoc[GDCubismMotionQueueEntryHandle]
 **** GDCubismValueAds
 ***** link:API_gd_cubism_parameter.ja.adoc[GDCubismParameter]
-***** link:API_gd_cubism_part_opaciry.ja.adoc[GDCubismPartOpacity]
+***** link:API_gd_cubism_part_opacity.ja.adoc[GDCubismPartOpacity]
